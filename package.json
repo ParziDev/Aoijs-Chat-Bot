@@ -1,0 +1,17 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "ParzivaL Chat Bot Altyapısı",
+  "main": "parzival.js",
+  "scripts": {
+    "start": "node parzival.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.6.0"
+  }
+}
